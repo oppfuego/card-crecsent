@@ -1,0 +1,89 @@
+.link-cxvzrfe7-normaljpg {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 45px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link-emre {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.16px;
+  line-height: 120%;
+}
+.cexar-208 {
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: Lato;
+  color: #536471;
+  display: inline-block;
+  min-width: 86.3px;
+}
+.link-cxvzrfe7-normaljpg-parent,
+.link-emre-james-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-emre-james-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 1.2px;
+}
+.link-cxvzrfe7-normaljpg-parent {
+  width: 139.3px;
+  flex-direction: row;
+  gap: 8px;
+}
+.link-x-logosvg2 {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.i-found-cardcrescent {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: Lato;
+  color: #1c1c1c;
+}
+.backgroundbordershadow2,
+.frame-parent15 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent15 {
+  flex-direction: column;
+  gap: 12px;
+}
+.backgroundbordershadow2 {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  border-radius: 24px;
+  background-color: #fff;
+  border: 2px solid #fe7fb6;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 40px 15px 40px 17px;
+  min-width: 259px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Archivo;
+}

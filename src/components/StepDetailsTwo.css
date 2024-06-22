@@ -1,0 +1,81 @@
+.select-a-gift {
+  margin: 0;
+  width: 285.2px;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.add-a-customized,
+.click-on-the,
+.select-or-enter {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.add-a-customized {
+  height: 37px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.select-instructions {
+  align-self: stretch;
+  gap: 18px;
+  font-size: 16px;
+  color: #767a81;
+  font-family: Roboto;
+}
+.paragraphbackgroundshadow1,
+.select-instructions,
+.step-details-two {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraphbackgroundshadow1 {
+  align-self: stretch;
+  box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.07),
+    0 10px 20px -2px rgba(0, 0, 0, 0.04);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 32.5px 43px 32.9px;
+  gap: 24px;
+}
+.step-details-two {
+  flex: 1;
+  padding: 256.4px 0 0;
+  box-sizing: border-box;
+  min-width: 371px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1100px) {
+  .paragraphbackgroundshadow1 {
+    padding-left: 21px;
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+  .step-details-two {
+    padding-top: 167px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .select-a-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .step-details-two {
+    min-width: 100%;
+  }
+}

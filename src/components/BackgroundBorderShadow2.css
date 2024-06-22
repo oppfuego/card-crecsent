@@ -1,0 +1,100 @@
+.link-dmvvta7t-normaljpg {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 45px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.link-eclipsy {
+  width: 109.2px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.eclipsygaming1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 25px;
+  font-family: Roboto;
+  color: #536471;
+}
+.card-images,
+.card-names-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-names-container {
+  flex: 1;
+  flex-direction: column;
+  gap: 1.2px;
+}
+.card-images {
+  width: 204px;
+  flex-direction: row;
+  gap: 8px;
+}
+.link-x-logosvg {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.card-images-parent,
+.i-love-how {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.card-images-parent {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.i-love-how {
+  height: 109px;
+  position: relative;
+  font-size: 16px;
+  line-height: 25.6px;
+  font-family: Lato;
+  color: #1c1c1c;
+  flex-shrink: 0;
+}
+.backgroundbordershadow,
+.frame-parent12 {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent12 {
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  flex-shrink: 0;
+}
+.backgroundbordershadow {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  border-radius: 24px;
+  background-color: #fff;
+  border: 2px solid #fe7fb6;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 26px 14px 27px 18px;
+  min-width: 259px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Archivo;
+}
+@media screen and (max-width: 450px) {
+  .frame-parent12 {
+    gap: 16px;
+  }
+}

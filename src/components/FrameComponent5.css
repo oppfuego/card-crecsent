@@ -1,0 +1,228 @@
+.heading-2 {
+  margin: 0;
+  height: 60px;
+  width: 516px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.choose-from-200,
+.crypto-payment {
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+}
+.crypto-payment {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.choose-from-200 {
+  height: 38px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  color: #767a81;
+  align-items: center;
+  flex-shrink: 0;
+}
+.crypto-options,
+.crypto-title {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.crypto-title {
+  width: 724px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.crypto-options {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.link-btcsvg {
+  height: 68px;
+  width: 73px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.border {
+  border-radius: 10px;
+  border: 1px solid #767a81;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 25px;
+}
+.border-icon,
+.border-icon1,
+.border-icon2,
+.border-icon3,
+.border-icon4,
+.border-icon5 {
+  height: 120px;
+  width: 125px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 120px;
+}
+.method-icons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+}
+.method-3svg-icon,
+.method-4svg-icon {
+  align-self: stretch;
+  width: 196px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 30px;
+}
+.method-4svg-icon {
+  width: 213px;
+}
+.method-5svg-icon {
+  width: 138px;
+}
+.method-1svg-icon,
+.method-2svg-icon,
+.method-5svg-icon {
+  align-self: stretch;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 30px;
+}
+.method-1svg-icon {
+  width: 94px;
+  object-fit: cover;
+}
+.method-2svg-icon {
+  width: 50.8px;
+}
+.method-logo-list,
+.method-logos {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.method-logo-list {
+  flex: 1;
+  justify-content: center;
+  gap: 35px;
+}
+.method-logos {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 9px;
+  box-sizing: border-box;
+}
+.payment-methods {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32px;
+  min-width: 552px;
+  max-width: 100%;
+}
+.border-icon6 {
+  height: 120px;
+  width: 125px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bitcoin {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.bitcoin,
+.crypto-container,
+.crypto-container-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.crypto-container {
+  width: 1140px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.crypto-container-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1100px) {
+  .heading-2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .method-icons,
+  .method-logo-list {
+    flex-wrap: wrap;
+  }
+  .payment-methods {
+    min-width: 100%;
+  }
+  .crypto-container {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .method-logo-list {
+    gap: 17px;
+  }
+  .payment-methods {
+    gap: 16px;
+  }
+  .crypto-container-wrapper {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

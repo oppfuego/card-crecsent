@@ -1,0 +1,368 @@
+.heading-2-button {
+  align-self: stretch;
+  height: 63.7px;
+  box-shadow: 0-1px 0#767a81 inset;
+  font-family: Archivo;
+  font-weight: 700;
+  font-size: 18px;
+  color: #1c1c1c;
+  width: auto;
+}
+.the-uber-eats,
+.the-uber-eats1 {
+  align-self: stretch;
+  height: 102.4px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.the-uber-eats1 {
+  height: 95px;
+}
+.paragraph-content,
+.paragraphbackground {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.paragraph-content {
+  align-items: center;
+  justify-content: flex-end;
+  gap: 25px;
+}
+.paragraphbackground {
+  border-radius: 8px;
+  background-color: #def1f7;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 21px 20px 16px;
+  font-size: 16px;
+  color: #1c657d;
+  font-family: Roboto;
+}
+.blank-line,
+.key-features {
+  margin: 0;
+  line-height: 120%;
+}
+.access-to-thousands {
+  line-height: 135%;
+}
+.access-to-thousands-of-restaur1 {
+  margin-bottom: 0;
+}
+.convenient-delivery-say {
+  line-height: 135%;
+}
+.convenient-delivery-say-goodb {
+  margin-bottom: 0;
+}
+.personalized-dining-experience1 {
+  line-height: 135%;
+}
+.personalized-dining-experience {
+  margin-bottom: 0;
+}
+.flexible-usage-the {
+  line-height: 135%;
+}
+.flexible-usage-the-uber-eats {
+  margin-bottom: 0;
+}
+.instant-digital-delivery {
+  line-height: 135%;
+}
+.access-to-thousands-of-restaur {
+  margin: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  padding-left: 21px;
+}
+.key-features-access-container {
+  align-self: stretch;
+  position: relative;
+}
+.blank-line1,
+.why-choose-the {
+  margin: 0;
+  line-height: 120%;
+}
+.versatility-ideal-for {
+  line-height: 135%;
+}
+.versatility-ideal-for-foodies1 {
+  margin-bottom: 0;
+}
+.convenience-skip-the {
+  line-height: 135%;
+}
+.convenience-skip-the-hassle-o {
+  margin-bottom: 0;
+}
+.accessibility-with-the {
+  line-height: 135%;
+}
+.accessibility-with-the-uber-e {
+  margin-bottom: 0;
+}
+.personalization-whether-its {
+  line-height: 135%;
+}
+.versatility-ideal-for-foodies {
+  margin: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  padding-left: 21px;
+}
+.why-choose-the-container {
+  align-self: stretch;
+  position: relative;
+}
+.blank-line2,
+.how-to-redeem {
+  margin: 0;
+  line-height: 120%;
+}
+.open-the-uber {
+  line-height: 135%;
+}
+.open-the-uber-eats-app-downlo1 {
+  margin-bottom: 0;
+}
+.sign-in-or {
+  line-height: 135%;
+}
+.sign-in-or-create-an-account {
+  margin-bottom: 0;
+}
+.navigate-to-the {
+  line-height: 135%;
+}
+.navigate-to-the-payment-sectio {
+  margin-bottom: 0;
+}
+.enter-the-gift {
+  line-height: 135%;
+}
+.enter-the-gift-card-code-ente {
+  margin-bottom: 0;
+}
+.enjoy-your-meal {
+  line-height: 135%;
+}
+.open-the-uber-eats-app-downlo {
+  margin: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  padding-left: 21px;
+}
+.how-to-redeem-container {
+  position: relative;
+}
+.start-dining-delightfully,
+.surprise-your-friends {
+  margin: 0;
+}
+.start-dining-delightfully-container {
+  align-self: stretch;
+  height: 102px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.uber-eats-description-list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 27px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.backgroundborder,
+.uber-eats-description-list-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 41px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.backgroundborder {
+  border-radius: 8px 8px 0 0;
+  background-color: #fff;
+  border: 1px solid #767a81;
+  flex-direction: column;
+  padding: 22px 23px;
+  gap: 35px;
+}
+.help-instructions {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.image-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.6px;
+}
+.backgroundborder1 {
+  align-self: stretch;
+  background-color: #fff;
+  border-right: 1px solid #767a81;
+  border-bottom: 1px solid #767a81;
+  border-left: 1px solid #767a81;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 17.4px 26px 19px 24px;
+  gap: 20px;
+  z-index: 1;
+}
+.terms-conditions {
+  position: relative;
+  line-height: 26.9px;
+}
+.image-icon1 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.5px;
+}
+.heading-2-button1 {
+  flex: 1;
+  border-radius: 0 0 7px 7px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 17.5px 24px 19.3px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.backgroundborder-group,
+.backgroundborder-parent,
+.backgroundborder2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.backgroundborder2 {
+  align-self: stretch;
+  border-radius: 0 0 8px 8px;
+  background-color: #fff;
+  border-right: 1px solid #767a81;
+  border-bottom: 1px solid #767a81;
+  border-left: 1px solid #767a81;
+  box-sizing: border-box;
+  flex-direction: row;
+  z-index: 2;
+  margin-top: -0.1px;
+}
+.backgroundborder-group,
+.backgroundborder-parent {
+  flex-direction: column;
+}
+.backgroundborder-group {
+  align-self: stretch;
+  font-size: 22.4px;
+  color: #4f4f4f;
+  font-family: Lato;
+}
+.backgroundborder-parent {
+  width: 691px;
+  flex-shrink: 0;
+}
+.product-description-inner {
+  width: 1231px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 128px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.section-payment-methods {
+  width: 941px;
+  height: 494.1px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.product-description {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 32px;
+  color: #52555e;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1575px) {
+  .backgroundborder {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .product-description-inner {
+    padding-bottom: 83px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .backgroundborder {
+    gap: 17px;
+  }
+  .product-description-inner {
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+  .product-description {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .help-instructions,
+  .terms-conditions {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .product-description-inner {
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,316 @@
+.heading-21 {
+  margin: 0;
+  height: 116px;
+  width: 484px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.how-to-container,
+.steps-list {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.how-to-container {
+  width: 1296px;
+  flex-direction: row;
+  justify-content: center;
+}
+.steps-list {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 276.3px;
+  min-width: 371px;
+}
+.polygon-rightsvg-icon,
+.polygon-rightsvg-icon1 {
+  width: 28px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+}
+.polygon-rightsvg-parent,
+.step-icons-one {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.polygon-rightsvg-parent {
+  flex: 1;
+  gap: 427.7px;
+}
+.step-icons-one {
+  height: 617.7px;
+  padding: 20px 0 0;
+  box-sizing: border-box;
+}
+.backgroundborder4 {
+  height: 55px;
+  width: 55px;
+  position: relative;
+  border-radius: 27.5px;
+  background-color: #1c1c1c;
+  border: 3px solid #fff;
+  box-sizing: border-box;
+  display: none;
+  z-index: 0;
+}
+.empty-icon {
+  width: 18px;
+  position: relative;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.background5 {
+  height: 794.7px;
+  width: 3px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -704.7px;
+  left: calc(50% - 1.5px);
+  background-color: rgba(255, 255, 255, 0.2);
+  z-index: 2;
+}
+.backgroundborder5,
+.icon-list-two {
+  position: relative;
+  border-radius: 27.5px;
+  background-color: #1c1c1c;
+  border: 3px solid #fff;
+}
+.icon-list-two {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 13px 9px 18px;
+  text-align: center;
+}
+.backgroundborder5 {
+  height: 55px;
+  width: 55px;
+  box-sizing: border-box;
+  display: none;
+}
+.div {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 18px;
+  z-index: 1;
+}
+.backgroundborder6,
+.icon-list-two1 {
+  border-radius: 27.5px;
+  background-color: #1c1c1c;
+  border: 3px solid #fff;
+}
+.icon-list-two1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 13px 9px 18px;
+}
+.backgroundborder6 {
+  height: 55px;
+  width: 55px;
+  position: relative;
+  box-sizing: border-box;
+  display: none;
+}
+.div1 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 18px;
+  z-index: 1;
+}
+.icon-list-two-parent,
+.icon-list-two2,
+.step-icons-two {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-list-two2 {
+  align-self: stretch;
+  border-radius: 27.5px;
+  background-color: #1c1c1c;
+  border: 3px solid #fff;
+  flex-direction: row;
+  padding: 11px 14px 11px 17px;
+}
+.icon-list-two-parent,
+.step-icons-two {
+  flex-direction: column;
+}
+.icon-list-two-parent {
+  align-self: stretch;
+  gap: 201.3px;
+}
+.step-icons-two {
+  width: 55px;
+  padding: 35px 0 0;
+  box-sizing: border-box;
+  font-size: 32px;
+  color: #fff;
+  font-family: Roboto;
+}
+.polygon-leftsvg-icon {
+  width: 28px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+}
+.step-icon-three {
+  height: 361.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 276.4px 0 0;
+  box-sizing: border-box;
+}
+.button19,
+.steps-container {
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.steps-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10.5px;
+  max-width: 100%;
+}
+.button19 {
+  height: 49.2px;
+  width: 215.9px;
+}
+.how-to-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.how-to-container-parent,
+.how-to-steps {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.how-to-steps {
+  width: 1296px;
+  align-items: flex-start;
+  gap: 84px;
+  font-size: 24px;
+  color: #1c1c1c;
+}
+.how-to-container-parent {
+  align-self: stretch;
+  background-color: #1c1c1c;
+  overflow: hidden;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1450px) {
+  .how-to-container-parent {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .heading-21 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .steps-list {
+    gap: 138px;
+  }
+  .div,
+  .div1,
+  .empty-icon {
+    font-size: 26px;
+    line-height: 24px;
+  }
+  .div,
+  .div1 {
+    line-height: 22px;
+  }
+  .div1 {
+    line-height: 35px;
+  }
+  .how-to-steps {
+    gap: 42px;
+  }
+  .how-to-container-parent {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-21 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .steps-list {
+    gap: 69px;
+    min-width: 100%;
+  }
+  .div,
+  .div1,
+  .empty-icon {
+    font-size: 19px;
+    line-height: 18px;
+  }
+  .div,
+  .div1 {
+    line-height: 17px;
+  }
+  .div1 {
+    line-height: 26px;
+  }
+  .step-icon-three {
+    padding-top: 180px;
+    box-sizing: border-box;
+  }
+  .how-to-steps {
+    gap: 21px;
+  }
+  .how-to-container-parent {
+    gap: 16px;
+  }
+}

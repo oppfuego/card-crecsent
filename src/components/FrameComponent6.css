@@ -1,0 +1,296 @@
+.heading-1 {
+  margin: 0;
+  width: 474px;
+  height: 116px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.discover-a-world {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+}
+.heading-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.button14 {
+  width: 146.1px;
+  height: 49.2px;
+}
+.banner-heading,
+.banner-heading-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.banner-heading {
+  align-self: stretch;
+  gap: 32px;
+}
+.banner-heading-wrapper {
+  flex: 1;
+  padding: 44.3px 0 0;
+  box-sizing: border-box;
+  min-width: 417px;
+  flex-shrink: 0;
+}
+.shopping-sales-gift-voucher-on-icon {
+  height: 375.8px;
+  width: 563px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.banner-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  max-width: 100%;
+}
+.giftcardscom-logopng-icon {
+  align-self: stretch;
+  height: 39.7px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.logo-grid {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 30.6px;
+  box-sizing: border-box;
+}
+.tds-gift-cards-los-angeles-ca-icon {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  object-fit: cover;
+}
+.los-angeles-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 19.5px;
+}
+.giftcard-logopng-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.giftcard-logopng-wrapper {
+  height: 84.1px;
+  width: 98px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 16.8px;
+  box-sizing: border-box;
+}
+.gift-card-mall-logopng-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.granny-logo {
+  height: 87.9px;
+  width: 157px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 13.1px;
+  box-sizing: border-box;
+}
+.gift-card-granny-logopng-icon {
+  height: 101px;
+  width: 101px;
+  position: relative;
+  object-fit: cover;
+}
+.logos-container,
+.logos-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.logos-container {
+  width: 940px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.logos-container-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.empty-space {
+  width: 43px;
+  position: relative;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symbol18,
+.symbol19,
+.symbol20,
+.symbol21,
+.symbol22 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 16.1px;
+}
+.list1,
+.stars {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list1 {
+  padding: 6px 4px;
+  gap: 8px;
+  font-size: 14px;
+  color: #fe7fb6;
+  font-family: Inter;
+}
+.stars {
+  gap: 6px;
+  text-align: left;
+}
+.link-trusted {
+  flex: 1;
+  position: relative;
+  line-height: 25px;
+  display: inline-block;
+  min-width: 133px;
+}
+.from-185-countries {
+  width: 157px;
+  position: relative;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.trust-link,
+.trust-link-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.trust-link {
+  width: 552.7px;
+  flex-wrap: wrap;
+  gap: 11px;
+}
+.trust-link-wrapper {
+  align-self: stretch;
+  padding: 0 20px 0 21px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 16px;
+  color: #767a81;
+  font-family: Roboto;
+}
+.hero-banner {
+  width: 1252px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.hero-banner-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1100px) {
+  .heading-1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .banner-heading {
+    gap: 16px;
+  }
+  .banner-heading-wrapper {
+    min-width: 100%;
+  }
+  .shopping-sales-gift-voucher-on-icon {
+    flex: 1;
+  }
+  .banner-content {
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .logos-container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .hero-banner {
+    gap: 16px;
+  }
+  .hero-banner-wrapper {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

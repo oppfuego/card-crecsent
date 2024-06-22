@@ -1,0 +1,417 @@
+.heading-23 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 99px;
+}
+.f-a-q-heading-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.how-do-i {
+  width: 387px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 40px);
+}
+.image-icon2 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder7,
+.heading-2-button2 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button2 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 15.9px;
+  gap: 20px;
+}
+.backgroundborder7 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.what-types-of {
+  width: 318px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon3 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder8,
+.heading-2-button3 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button3 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 15.7px;
+  gap: 20px;
+}
+.backgroundborder8 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+}
+.how-is-the {
+  width: 260.3px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon4 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder9,
+.heading-2-button4 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button4 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 16.1px;
+  gap: 20px;
+}
+.backgroundborder9 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+}
+.can-i-customize {
+  width: 222.2px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon5 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder10,
+.heading-2-button5 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button5 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 16.1px;
+  gap: 20px;
+}
+.backgroundborder10 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+}
+.what-games-can {
+  width: 294px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon6 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder-container,
+.backgroundborder11,
+.heading-2-button6 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading-2-button6 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 18.3px 24px 16.1px;
+  gap: 20px;
+}
+.backgroundborder-container,
+.backgroundborder11 {
+  justify-content: flex-start;
+}
+.backgroundborder11 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #1c1c1c;
+  flex-direction: row;
+}
+.backgroundborder-container {
+  height: 333.9px;
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 68.7px;
+  gap: 10px;
+  min-width: 430px;
+}
+.can-i-send {
+  width: 398px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 40px);
+}
+.image-icon7 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder12,
+.heading-2-button7 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button7 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 15.9px;
+  gap: 20px;
+}
+.backgroundborder12 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.what-payment-methods {
+  width: 301px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon8 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder13,
+.heading-2-button8 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button8 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 15.7px;
+  gap: 20px;
+}
+.backgroundborder13 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+}
+.what-should-i {
+  width: 497.7px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 40px);
+}
+.image-icon9 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder14,
+.heading-2-button9 {
+  border-radius: 16px;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.heading-2-button9 {
+  flex: 1;
+  justify-content: space-between;
+  padding: 18.4px 24px 16.1px;
+  gap: 20px;
+}
+.backgroundborder14 {
+  align-self: stretch;
+  border: 1px solid #1c1c1c;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.can-i-return {
+  width: 326.4px;
+  position: relative;
+  line-height: 19.2px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 40px);
+}
+.image-icon10 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.backgroundborder-parent1,
+.backgroundborder15,
+.heading-2-button10 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading-2-button10 {
+  flex: 1;
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 18.4px 24px;
+  gap: 20px;
+}
+.backgroundborder-parent1,
+.backgroundborder15 {
+  justify-content: flex-start;
+}
+.backgroundborder15 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  border: 1px solid #1c1c1c;
+  flex-direction: row;
+  flex-shrink: 0;
+  font-family: Lato;
+}
+.backgroundborder-parent1 {
+  height: 265.1px;
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 68.7px;
+  gap: 10px;
+  min-width: 430px;
+}
+.f-a-q-list {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  font-size: 16px;
+  color: #4f4f4f;
+  font-family: Roboto;
+}
+.f-a-q-container,
+.f-a-q-container-wrapper,
+.f-a-q-list {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.f-a-q-container {
+  width: 1348px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.f-a-q-container-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Archivo;
+}
+@media screen and (max-width: 1100px) {
+  .heading-23 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .backgroundborder-container,
+  .backgroundborder-parent1 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-23 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .backgroundborder-container {
+    padding-bottom: 45px;
+    box-sizing: border-box;
+  }
+}

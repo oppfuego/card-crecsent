@@ -1,0 +1,112 @@
+.container2,
+.link-jupsfoib-normaljpg {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container2 {
+  height: 150px;
+  width: 362.7px;
+  display: none;
+  max-width: 100%;
+}
+.link-jupsfoib-normaljpg {
+  height: 45px;
+  width: 45px;
+  border-radius: 45px;
+  object-fit: contain;
+}
+.link-bizsol {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  min-width: 66px;
+}
+.coinconfess {
+  height: 26px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  color: #536471;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 109px;
+}
+.link-bizsol-parent,
+.link-jupsfoib-normaljpg-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-bizsol-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.link-jupsfoib-normaljpg-parent {
+  width: 162px;
+  flex-direction: row;
+  gap: 8px;
+}
+.link-x-logosvg1 {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.buying-a-gift,
+.frame-parent14 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame-parent14 {
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.buying-a-gift {
+  height: 102.4px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Roboto;
+  color: #1c1c1c;
+  flex-shrink: 0;
+}
+.backgroundbordershadow1,
+.frame-parent13 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent13 {
+  flex-direction: column;
+  gap: 32px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.backgroundbordershadow1 {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  border-radius: 24px;
+  background-color: #fff;
+  border: 2px solid #fe7fb6;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 29px 14px 29px 18px;
+  min-width: 259px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Archivo;
+}
+@media screen and (max-width: 450px) {
+  .frame-parent13 {
+    gap: 16px;
+  }
+}
